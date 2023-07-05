@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="559ed96697332110b2e1f97e6253af85" extends="task" label="Test Table" max_length="40" name="x_304321_test_appl_test_table" type="collection"/>
+</database>
